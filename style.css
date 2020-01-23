@@ -1,0 +1,31 @@
+.bg-grad{
+  background-image: linear-gradient(lightblue, blue);
+  color:white;
+}
+.bg-grad a{
+  color:white;
+  text-decoration:none;
+}
+button.btn{
+  background-color:cyan;
+  border-radius:2rem;
+  justify-content:space-around;
+}
+button p{
+  font-size: 0.75em;
+  display:inline-flex;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+.bg-white1{
+  background-color:#f6f6f6;
+}
+.bg-white{
+  background-color: white;
+}
+.bg-blue{
+  background-color: darkcyan;
+}
+.bg-dark{
+  background-color: darkslategrey;
+}
